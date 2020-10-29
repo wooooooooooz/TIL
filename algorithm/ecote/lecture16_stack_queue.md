@@ -6,7 +6,7 @@
 - 스택은 입구와 출구가 동일한 형태로 시각화 가능 
 
 ```python 
-list = [] 
+stack = [] 
 
 stack.append(1)
 stack.append(2)
